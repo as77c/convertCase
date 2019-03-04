@@ -9,6 +9,7 @@ def letter_case(text):
     words = []
     text = text.lower()
     meta_print("START")
+    words.append(text)
     for char in range(len(text)):
         words = words +(helper(text, char + 1))
     printLine(words)
