@@ -2,7 +2,7 @@
 convert a given string to all possible cases
 
 This is tool will genrate all letter cases of a given string.
-## Usage:
+## Usage
 ```
 ./converCase.py -s amin
 ========== START ==========
