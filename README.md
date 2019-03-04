@@ -5,6 +5,7 @@ This is tool will genrate all possible cases of a given string.
 ```
 ./converCase.py -s amin
 ========== START ==========
+amin
 Amin
 aMin
 amIn
@@ -15,7 +16,7 @@ amIN
 AMIn
 aMIN
 AMIN
-10 cases are generated
+11 cases are generated
 ========== END ==========
 ```
 
