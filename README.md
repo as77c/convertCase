@@ -1,7 +1,6 @@
 # convertCase
-convert a given string to all possible cases
 
-This is tool will genrate all letter cases of a given string.
+This is tool will genrate all possible cases of a given string.
 ## Usage
 ```
 ./converCase.py -s amin
